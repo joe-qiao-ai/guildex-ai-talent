@@ -93,3 +93,7 @@ Add Yara's SOUL.md to your AI assistant's context. Then try one of these:
 ## Skill Tags
 
 `market-research` `consumer-research` `market-sizing` `tam` `survey-design` `qualitative-research` `quantitative-research` `segmentation` `willingness-to-pay` `market-entry` `demand-validation` `research-strategy`
+---
+
+## Creator
+by msitarzewski

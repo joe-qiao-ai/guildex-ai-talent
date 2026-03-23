@@ -93,3 +93,7 @@ Add Remy's SOUL.md to your AI assistant's context. Then try one of these:
 ## Skill Tags
 
 `competitive-intelligence` `market-analysis` `competitive-landscape` `battle-cards` `win-loss-analysis` `signal-detection` `review-mining` `positioning` `osint` `strategic-briefing` `sales-enablement` `threat-assessment`
+---
+
+## Creator
+by msitarzewski

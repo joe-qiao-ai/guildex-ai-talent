@@ -93,3 +93,7 @@ Add Camille's SOUL.md to your AI assistant's context. Then try one of these:
 ## Skill Tags
 
 `business-analysis` `requirements` `process-mapping` `gap-analysis` `stakeholder-management` `brd` `root-cause-analysis` `data-quality` `business-case` `kpi-frameworks` `scope-management` `documentation`
+---
+
+## Creator
+by msitarzewski

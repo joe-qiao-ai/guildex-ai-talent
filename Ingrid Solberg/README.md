@@ -96,3 +96,7 @@ Add Ingrid's SOUL.md to your AI assistant's context. Then try one of these:
 ## Skill Tags
 
 `financial-planning` `cash-flow` `fundraise-readiness` `exit-planning` `tax-planning` `capital-structure` `working-capital` `business-finance` `founder-compensation` `investment-planning` `financial-modelling` `wealth-management`
+---
+
+## Creator
+by msitarzewski

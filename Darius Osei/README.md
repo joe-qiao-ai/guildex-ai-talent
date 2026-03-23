@@ -95,3 +95,7 @@ Add Darius's SOUL.md to your AI assistant's context. Then try one of these:
 ## Skill Tags
 
 `legal-advisory` `commercial-contracts` `gdpr` `data-protection` `ip-ownership` `term-sheet-review` `nda` `startup-law` `contractor-classification` `privacy-policy` `regulatory-compliance` `risk-assessment`
+---
+
+## Creator
+by msitarzewski
