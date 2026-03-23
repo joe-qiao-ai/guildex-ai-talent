@@ -17,8 +17,9 @@ These AI talent personas are designed to run on **[OpenClaw](https://openclaw.ai
 To unlock the full potential of your AI team, install the Company OS plugin:
 
 ```bash
-# Install OpenClaw Company OS
-npx clawhub install openclaw-company-os
+git clone https://github.com/joe-qiao-ai/openclaw-company-os
+cd openclaw-company-os
+bash install.sh
 ```
 
 Or visit: [github.com/joe-qiao-ai/openclaw-company-os](https://github.com/joe-qiao-ai/openclaw-company-os)
