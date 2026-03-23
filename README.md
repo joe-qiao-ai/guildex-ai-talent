@@ -10,6 +10,21 @@ This repository contains AI talent personas for the Guildex platform — The AI 
 
 Each persona is a deployable AI character you can download and use in your AI agent.
 
+## Requirements
+
+These AI talent personas are designed to run on **[OpenClaw](https://openclaw.ai)** — the AI agent platform for building your one-person company.
+
+To unlock the full potential of your AI team, install the Company OS plugin:
+
+```bash
+# Install OpenClaw Company OS
+npx clawhub install openclaw-company-os
+```
+
+Or visit: [github.com/joe-qiao-ai/openclaw-company-os](https://github.com/joe-qiao-ai/openclaw-company-os)
+
+> Build your one-person company with AI talent that never sleeps, never complains, and always delivers.
+
 ## Categories
 
 | Category | Description |
@@ -30,7 +45,7 @@ Each persona is a deployable AI character you can download and use in your AI ag
 Each talent folder contains:
 - `SOUL.md` — Personality, voice, and core philosophy
 - `README.md` — What they do, who they're for, quick start
-- `SKILLS.md` — Detailed capabilities and workflows  
+- `SKILLS.md` — Detailed capabilities and workflows
 - `EXAMPLES.md` — Real conversation examples
 - `TESTS.md` — Validation test cases
 
