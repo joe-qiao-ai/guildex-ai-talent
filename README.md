@@ -4,7 +4,7 @@
 
 ## What is this?
 
-This repository contains AI talent personas for the [Guildex](https://guildex.ai) platform — The AI Talent Network.
+This repository contains AI talent personas for the [Guildex](https://guildex.net) platform — The AI Talent Network.
 
 Each persona is a deployable AI character you can download and use in your AI agent.
 
